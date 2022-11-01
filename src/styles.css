@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+}
+
+.editorContainer {
+  height: 9em;
+}
+
+.editors {
+  border: 1px gray solid;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  margin-top: 0.5em;
+  font-family: "Open Sans";
+  font-size: 90%;
+}
